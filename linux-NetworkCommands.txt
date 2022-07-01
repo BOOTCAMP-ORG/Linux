@@ -1,4 +1,0 @@
-Network Commands to Linux 
-
-// show password on your Wifi :
-  1. sudo grep psk= /etc/NetworkManager/system-connections/*
